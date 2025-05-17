@@ -1,0 +1,12 @@
+{
+  "name": "crypto-wallet",
+  "version": "1.0.0",
+  "description": "A simple cryptocurrency wallet application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/wallet.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
