@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Sui Wallet",
+  "version": "1.0",
+  "description": "Simple Sui wallet for key generation and signing.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["storage"]
+}
